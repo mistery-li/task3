@@ -1,0 +1,32 @@
+#all {
+    height: 80%;
+    background: #999;
+    border: 1px solid #999;
+    overflow: auto;
+    zoom: 1;
+}
+#center {
+    margin-left: 220px;
+    margin-right: 140px;
+}
+#left {
+    position: absolute;
+    top: 0;
+    width: 160px;
+    left: 0;
+    padding: 20px;
+}
+#right {
+    position: absolute;
+    top: 0;
+    width: 80px;
+    right: 0;
+    padding: 20px;
+}
+img {
+    width: 80px;
+    float: left;
+}
+h4 {
+    float: right;
+}
